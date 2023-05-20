@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  font-family: Verdana;
+  text-transform: uppercase;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+P {
+  text-align: center;
+  font-family: Verdana;
+  }
+
+a:hover {
+color: darkblue;}
+
+.container {
+  text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: center;
+    padding: center;
+    overflow: hidden;
+    background-color: lightgrey;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #ddd;
+}
